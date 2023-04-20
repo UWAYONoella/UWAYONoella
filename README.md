@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 ![profile](https://user-images.githubusercontent.com/106772337/233390075-05f05526-a5fe-4d12-ae50-7776452c5ae0.jpg)
-### I’m currently learning IT and SOFTWARE ENGINEERING from INES RUHENGERI and AFRICAN LEADERSHIP UNIVERSITY respectvely
+### I’m currently learning IT and SOFTWARE ENGINEERING at INES RUHENGERI and AFRICAN LEADERSHIP UNIVERSITY respectvely
 <!--
 **UWAYONoella/UWAYONoella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
