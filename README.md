@@ -2,6 +2,7 @@
 🌱 ![profile](https://user-images.githubusercontent.com/106772337/233390075-05f05526-a5fe-4d12-ae50-7776452c5ae0.jpg)
 ### An IT and SOFTWARE ENGINEERING
 <!--
+- ⚡ Fun fact: You can't see your eyes without using mirror
 **UWAYONoella/UWAYONoella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: You can't see your eyes without using mirror
+
 -->
